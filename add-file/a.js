@@ -1,1 +1,1 @@
-alert('this is a.js')
+alert('this is a.js, modified')

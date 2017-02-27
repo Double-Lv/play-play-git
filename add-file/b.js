@@ -1,1 +1,0 @@
-alert('this is b.js');
