@@ -18,6 +18,4 @@
 
 7. [重置已添加或提交的文件](https://github.com/Double-Lv/play-play-git/blob/master/reset-head-and-commit/%E9%87%8D%E7%BD%AE%E5%B7%B2%E6%B7%BB%E5%8A%A0%E6%88%96%E6%8F%90%E4%BA%A4%E7%9A%84%E6%96%87%E4%BB%B6.md)
 
-8. 持续更新中...
-
-**说明：** 每个文件夹下的js文件诸如a.js,b.js是我测试的文件，不作为该手册的一部分，请读者练习的时候在单独的目录中自行创建。
+==说明== 每个文件夹下的js文件诸如a.js,b.js是我测试的文件，不作为该手册的一部分，请读者练习的时候在单独的目录中自行创建。
